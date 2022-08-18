@@ -8,7 +8,6 @@ body {
     margin: 0;
     font-family: 'Ubuntu', sans-serif;
     letter-spacing: 1px;
-    line-height: 1.3;
 }
 
 /* =================
@@ -28,6 +27,10 @@ h1 {
     color: #1792d2;
     font-size: .75rem;
     margin: 0;
+}
+
+p {
+    line-height: 1.3;
 }
 
 /* =================
